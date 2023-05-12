@@ -8,30 +8,35 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Iphone',
+    name: 'IPHONE',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'Entrou no insta a bateria acaba',
   },
   {
     id: 2,
-    name: 'Samsung',
+    name: 'SAMSUNG',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'regaça mais funciona',
   },
   {
     id: 3,
-    name: 'Motorola',
+    name: 'MOTOROLA',
     price: 299,
-    description: ''
+    description: 'Agite e acende',
   },
   {
     id: 4,
-    name: 'Xiaomi',
+    name: 'XIAOMI',
     price: 299,
-    description: ''
-  }
+    description: 'A bateria é muito, o tempo de regarga é poco',
+  },
+  {
+    id: 5,
+    name: 'NOKIA',
+    price: 299,
+    description: 'Caiu e o mundo destruiu',
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
